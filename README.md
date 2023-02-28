@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VladimirJigalow
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++ community
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on C# community
 - 📫 How to reach me - give me a cookie 
 
 <!---
